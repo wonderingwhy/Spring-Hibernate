@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sprhib"
+  id="myeclipse.1434877312443"
+  context-root="/sprhib"
+  j2ee-spec="5.0"
+  archive="sprhib.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebContent" />
+  </attributes>
+</project-module>
+
